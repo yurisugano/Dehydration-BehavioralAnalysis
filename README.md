@@ -1,7 +1,28 @@
-# Dehydration-BehavioralAnalysis
+# Dehydration Behavior in Invasive Toads Analysis 🐸💦
 
-This project aims to identify adaptive behavioral pattern differences between invasive and native guttural toads in South Africa. 
+## Overview
+Unravel the mystery of adaptive behaviors in invasive versus native toads in South Africa. We're not just hopping around; we're delving into raw behavioral data to uncover insights and trends.
 
-I performed behavioral coding using the Behavioral Observation Research Interactive Software (BORIS) package. After independent validation by a colleague, I analyzed and presented the results for a manuscript. This repository goes through the data treatment, data exploration and conclusions.
+### Problem Statement 🤔
+Quantifying behavior can be a tricky business. This project takes it to a whole new level by analyzing toads' behavioral metrics captured through BORIS (Behavioral Observation Research Interactive Software). This treasure trove of information is then used to compare invasive and native species in terms of their behavioral responses.
 
-For original publication, see Madelaire, C.B., Barsotti, A.M.G., Wagener, C. et al. Challenges of dehydration result in a behavioral shift in invasive toads. Behav Ecol Sociobiol 74, 83 (2020). https://doi.org/10.1007/s00265-020-02866-5
+### Approach 🛠
+The core feature of this project is a comprehensive R script that takes raw behavioral data as input and churns out detailed statistics and eye-catching graphs. We used R along with the ggplot2 library for plotting.
+
+### Instructions 📘
+1. **Requirements**: Make sure you have R and ggplot2 installed.
+2. **Setup**: Clone the repository and run locally.
+3. **Execution**: Just execute the script; the data is already included.
+
+### Results 📈
+- **Publication**: The findings were featured in Behavioral Ecology and Sociobiology. [Read the paper](https://doi.org/10.1007/s00265-020-02866-5).
+
+### Progress Indicator 🚦
+- [x] Raw data collection
+- [x] Data Preprocessing
+- [x] Data Analysis
+- [x] Publication
+- [ ] Generalization to broader behavioral assays (Open for contributions!)
+
+### Contact 📞
+For collaboration or inquiries, [visit my homepage](https://github.com/YourUsername).
